@@ -1,0 +1,13 @@
+,size,probability_obstacle,distance_fn,heuristic_fn,search_algo,approx_shortest_distance,paths_length,cost,nodes_visited
+0,75,0.05,euclidian_distance,euclidian_distance,Astar,25.079872407968907,26,25.82842712474619,135
+1,75,0.05,euclidian_distance,euclidian_distance,BFS,25.079872407968907,26,31.62741699796953,680
+2,75,0.05,euclidian_distance,euclidian_distance,Weighted_Astar,25.079872407968907,26,25.82842712474619,82
+3,75,0.05,euclidian_distance,euclidian_distance,Beam_Search,25.079872407968907,26,25.82842712474619,95
+4,100,0.05,euclidian_distance,euclidian_distance,Astar,72.3671196055225,72,76.7989898732233,1108
+5,100,0.05,euclidian_distance,euclidian_distance,BFS,72.3671196055225,76,95.71067811865467,5363
+6,100,0.05,euclidian_distance,euclidian_distance,Weighted_Astar,72.3671196055225,72,76.7989898732233,231
+7,100,0.05,euclidian_distance,euclidian_distance,Beam_Search,72.3671196055225,72,76.79898987322332,336
+8,125,0.05,euclidian_distance,euclidian_distance,Astar,86.45229898620394,66,88.61017305526632,785
+9,125,0.05,euclidian_distance,euclidian_distance,BFS,86.45229898620394,66,89.43860018001251,3897
+10,125,0.05,euclidian_distance,euclidian_distance,Weighted_Astar,86.45229898620394,66,88.61017305526632,298
+11,125,0.05,euclidian_distance,euclidian_distance,Beam_Search,86.45229898620394,66,88.61017305526632,333
